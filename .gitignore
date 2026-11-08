@@ -1,0 +1,9 @@
+device-dump/mmcblk2-full.img
+device-dump/mmcblk2-full.img.part-*
+device-dump/rootfs-live.tar
+device-dump/rootfs-live.tar.part-*
+*
+!device-dump/
+!device-dump/**
+!.gitignore
+!README-device-dump.md
