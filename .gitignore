@@ -7,3 +7,5 @@ device-dump/rootfs-live.tar.part-*
 !device-dump/**
 !.gitignore
 !README-device-dump.md
+!decompiled-gui-backend/
+!decompiled-gui-backend/**
